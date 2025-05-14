@@ -18,4 +18,4 @@ This Python-based project fetches real-time cryptocurrency data from the CoinMar
 
   * A line plot showing Bitcoin price trends over time.<br><br>
 
-**P.S.** This project was built with the help [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+**P.S.** This project was built with the help of [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
